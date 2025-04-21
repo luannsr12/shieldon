@@ -78,6 +78,9 @@ use function Shieldon\Firewall\_e;
                             <a href="#" data-lang="zh_CN" class="dropdown-item"
                                 onclick="selectLanguage(this, event);" role="button"
                             >简体中文</a>
+                            <a href="#" data-lang="pt_BR" class="dropdown-item"
+                                onclick="selectLanguage(this, event);" role="button"
+                            >Português do Brasil</a>
                         </div>
                     </li>
                 </ul>
